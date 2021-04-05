@@ -1,0 +1,692 @@
+
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!-- Consider adding a manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> 
+<html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" >
+	<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+	    <title>A Tree in Cappadocia &#8211; kelvinzhangphotography</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="kelvinzhangphotography &raquo; Feed" href="http://localhost:8888/photography/feed/" />
+<link rel="alternate" type="application/rss+xml" title="kelvinzhangphotography &raquo; Comments Feed" href="http://localhost:8888/photography/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="kelvinzhangphotography &raquo; A Tree in Cappadocia Comments Feed" href="http://localhost:8888/photography/product/a-tree-in-cappadocia/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/localhost:8888\/photography\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='dashicons-css'  href='http://localhost:8888/photography/wp-includes/css/dashicons.min.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='http://localhost:8888/photography/wp-includes/css/admin-bar.min.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://localhost:8888/photography/wp-includes/css/dist/block-library/style.min.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-vendors-style-css'  href='http://localhost:8888/photography/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=4.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-block-style-css'  href='http://localhost:8888/photography/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=4.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='gdprmagnificpopup-css'  href='http://localhost:8888/photography/wp-content/plugins/be-gdpr/public/css/magnific-popup.css?ver=1.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='be-gdpr-css'  href='http://localhost:8888/photography/wp-content/plugins/be-gdpr/public/css/be-gdpr-public.css?ver=1.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='oshine-modules-css'  href='http://localhost:8888/photography/wp-content/plugins/oshine-modules/public/css/oshine-modules.min.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://localhost:8888/photography/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.3.6' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='tatsu-main-css'  href='http://localhost:8888/photography/wp-content/plugins/tatsu/public/css/tatsu.min.css?ver=3.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='oshine_icons-css'  href='http://localhost:8888/photography/wp-content/themes/oshin/fonts/icomoon/style.min.css?ver=6.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='typehub-css'  href='http://localhost:8888/photography/wp-content/plugins/typehub/public/css/typehub-public.css?ver=2.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='typehub-google-fonts-css'  href='//fonts.googleapis.com/css?family=Playfair+Display%3A400%7CMontserrat%3A400%2C700%7CCrimson+Text%3A400%2C400italic%7CRaleway%3A400&#038;ver=1.0' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='be-themes-woocommerce-css-css'  href='http://localhost:8888/photography/wp-content/themes/oshin/woocommerce/woocommerce.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='be-themes-bb-press-css-css'  href='http://localhost:8888/photography/wp-content/themes/oshin/bb-press/bb-press.css?ver=5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='be-style-main-css-css'  href='http://localhost:8888/photography/wp-content/themes/oshin/css/main.min.css?ver=6.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='be-style-top-header-css'  href='http://localhost:8888/photography/wp-content/themes/oshin/css/headers/top-header.min.css?ver=6.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='be-style-responsive-header-css'  href='http://localhost:8888/photography/wp-content/themes/oshin/css/headers/responsive-header.min.css?ver=6.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='be-style-multilevel-menu-css'  href='http://localhost:8888/photography/wp-content/themes/oshin/css/headers/multilevel-menu.min.css?ver=6.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='be-themes-layout-css'  href='http://localhost:8888/photography/wp-content/themes/oshin/css/layout.min.css?ver=6.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='vendor-css'  href='http://localhost:8888/photography/wp-content/themes/oshin/css/vendor/vendor.min.css?ver=6.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='be-custom-fonts-css'  href='http://localhost:8888/photography/wp-content/themes/oshin/fonts/fonts.min.css?ver=6.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='be-dynamic-css'  href='http://localhost:8888/photography/wp-content/uploads/oshine_dynamic_css/be_dynamic.css?ver=6.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='be-style-css-css'  href='http://localhost:8888/photography/wp-content/themes/oshin/style.css?ver=6.9.9' type='text/css' media='all' />
+<link rel='stylesheet' id='wpforms-admin-bar-css'  href='http://localhost:8888/photography/wp-content/plugins/wpforms-lite/assets/css/admin-bar.min.css?ver=1.6.6' type='text/css' media='all' />
+<style id='wpforms-admin-bar-inline-css' type='text/css'>
+#wpadminbar .wpforms-menu-notification-indicator { background-color: #d63638 !important; }#wpadminbar .wpforms-menu-notification-counter { background-color: #d63638 !important; }
+</style>
+<link rel='stylesheet' id='ms-main-css'  href='http://localhost:8888/photography/wp-content/plugins/masterslider/public/assets/css/masterslider.main.css?ver=3.4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='ms-custom-css'  href='http://localhost:8888/photography/wp-content/uploads/masterslider/custom.css?ver=1.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://localhost:8888/photography/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='be-gdpr-js-extra'>
+/* <![CDATA[ */
+var beGdprConcerns = {"youtube":{"label":"Youtube","description":"Consent to display content from YouTube.","required":false},"vimeo":{"label":"Vimeo","description":"Consent to display content from Vimeo.","required":false},"gmaps":{"label":"Google Maps","description":"Consent to display content from Google Maps.","required":false}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-content/plugins/be-gdpr/public/js/be-gdpr-public.js?ver=1.1.3' id='be-gdpr-js'></script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.3.6' id='tp-tools-js'></script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.3.6' id='revmin-js'></script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-content/plugins/typehub/public/js/webfont.min.js?ver=5.7' id='webfontloader-js'></script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-content/themes/oshin/js/vendor/modernizr.min.js?ver=5.7' id='modernizr-js'></script>
+<link rel="https://api.w.org/" href="http://localhost:8888/photography/wp-json/" /><link rel="alternate" type="application/json" href="http://localhost:8888/photography/wp-json/wp/v2/product/340" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost:8888/photography/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost:8888/photography/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.7" />
+<meta name="generator" content="WooCommerce 5.1.0" />
+<link rel="canonical" href="http://localhost:8888/photography/product/a-tree-in-cappadocia/" />
+<link rel='shortlink' href='http://localhost:8888/photography/?p=340' />
+<link rel="alternate" type="application/json+oembed" href="http://localhost:8888/photography/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%3A8888%2Fphotography%2Fproduct%2Fa-tree-in-cappadocia%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://localhost:8888/photography/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%3A8888%2Fphotography%2Fproduct%2Fa-tree-in-cappadocia%2F&#038;format=xml" />
+<script>var ms_grabbing_curosr='http://localhost:8888/photography/wp-content/plugins/masterslider/public/assets/css/common/grabbing.cur',ms_grab_curosr='http://localhost:8888/photography/wp-content/plugins/masterslider/public/assets/css/common/grab.cur';</script>
+<meta name="generator" content="MasterSlider 3.4.7 - Responsive Touch Image Slider" />
+<script>
+				( function() {
+					function wpforms_js_error_loading() {
+						
+						if ( typeof window.wpforms !== 'undefined' ) {
+							return;
+						}
+						
+						var forms = document.querySelectorAll( '.wpforms-form' );
+						
+						if ( ! forms.length ) {
+							return;
+						}
+						
+						var error = document.createElement( 'div' );
+
+						error.classList.add( 'wpforms-error-container' );
+						error.innerHTML = 'Heads up! WPForms has detected an issue with JavaScript on this page. JavaScript is required for this form to work properly, so this form may not work as expected. See our <a href="https://wpforms.com/docs/getting-support-wpforms/" target="_blank" rel="noopener noreferrer">troubleshooting guide</a> to learn more or contact support.<p>This message is only displayed to site administrators.</p>';
+
+						forms.forEach( function( form ) {
+						
+							if ( ! form.querySelector( '.wpforms-error-container' ) ) {
+								form.insertBefore( error.cloneNode( true ), form.firstChild );
+							}
+						} );
+					};
+				
+					if ( document.readyState === 'loading' ) {
+						document.addEventListener( 'DOMContentLoaded', wpforms_js_error_loading );
+					} else {
+						wpforms_js_error_loading();
+					}
+				}() );
+			</script>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style type="text/css" media="print">#wpadminbar { display:none; }</style>
+	<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+	<meta name="generator" content="Powered by Slider Revolution 6.3.6 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<style rel="stylesheet" id="typehub-output">h1,.h1{font-family:"Playfair Display",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:normal;text-transform:none;font-size:55px;line-height:78px;letter-spacing:0;color:#fff}h2,.h2{font-family:"Playfair Display",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:normal;text-transform:none;font-size:47px;line-height:67px;letter-spacing:0;color:#fff}h3,.h3{font-family:"Playfair Display",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:normal;text-transform:none;font-size:36px;line-height:52px;letter-spacing:0;color:#fff}h4,.woocommerce-order-received .woocommerce h2,.woocommerce-order-received .woocommerce h3,.woocommerce-view-order .woocommerce h2,.woocommerce-view-order .woocommerce h3,.h4{font-family:"Playfair Display",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:normal;text-transform:none;font-size:30px;line-height:46px;letter-spacing:0;color:#fff}h5,#reply-title,.h5{font-family:"Playfair Display",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:normal;text-transform:none;font-size:18px;line-height:36px;letter-spacing:0;color:#fff}h6,.testimonial-author-role.h6-font,.menu-card-title,.menu-card-item-price,.slider-counts,.woocommerce-MyAccount-navigation ul li,a.bbp-forum-title,#bbpress-forums fieldset.bbp-form label,.bbp-topic-title a.bbp-topic-permalink,#bbpress-forums ul.forum-titles li,#bbpress-forums ul.bbp-replies li.bbp-header,.h6{font-family:"Montserrat",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:normal;text-transform:uppercase;font-size:13px;line-height:36px;letter-spacing:0;color:#ddd}body,.special-heading-wrap .caption-wrap .body-font,.woocommerce .woocommerce-ordering select.orderby,.woocommerce-page .woocommerce-ordering select.orderby,.body{font-family:"Crimson Text",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:normal;text-transform:none;font-size:16px;line-height:28px;letter-spacing:0;color:#aeaeae}.page-title-module-custom .page-title-custom,h6.portfolio-title-nav{font-family:"Playfair Display",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:normal;text-transform:none;font-size:25px;line-height:36px;letter-spacing:0;color:#fff}.sub-title,.special-subtitle,.sub_title{font-family:"Crimson Text",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:italic;text-transform:none;font-size:15px}#footer{font-family:"Montserrat",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:normal;text-transform:uppercase;font-size:11px;line-height:14px;letter-spacing:1px;color:#888}.special-header-menu .menu-container,#navigation .mega .sub-menu .highlight .sf-with-ul,#navigation,.style2 #navigation,.style13 #navigation,#navigation-left-side,#navigation-right-side,.sb-left #slidebar-menu,.header-widgets,.header-code-widgets,body #header-inner-wrap.top-animate.style2 #navigation,.top-overlay-menu .sb-right #slidebar-menu{font-family:"Montserrat",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:normal;text-transform:uppercase;font-size:11px;line-height:51px;letter-spacing:2px;color:#e8e8e8}.special-header-menu .menu-container .sub-menu,.special-header-menu .sub-menu,#navigation .sub-menu,#navigation .children,#navigation-left-side .sub-menu,#navigation-left-side .children,#navigation-right-side .sub-menu,#navigation-right-side .children,.sb-left #slidebar-menu .sub-menu,.top-overlay-menu .sb-right #slidebar-menu .sub-menu{font-family:"Montserrat",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:normal;text-transform:none;font-size:12px;line-height:28px;letter-spacing:0;color:#bbb}ul#mobile-menu a,ul#mobile-menu li.mega ul.sub-menu li.highlight>:first-child{font-family:"Montserrat",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:normal;text-transform:uppercase;font-size:11px;line-height:40px;letter-spacing:1px;color:#fff}ul#mobile-menu ul.sub-menu a{font-family:"Montserrat",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:normal;text-transform:none;font-size:12px;line-height:27px;letter-spacing:0;color:#757575}.top-right-sliding-menu .sb-right ul#slidebar-menu li,.sb-right #slidebar-menu .mega .sub-menu .highlight .sf-with-ul{font-family:"Montserrat",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:normal;text-transform:uppercase;font-size:11px;line-height:50px;letter-spacing:1px;color:#fff}.top-right-sliding-menu .sb-right #slidebar-menu ul.sub-menu li{font-family:"Montserrat",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:normal;text-transform:none;font-size:12px;line-height:25px;letter-spacing:0;color:#ddd}.ui-tabs-anchor,.accordion .accordion-head,.skill-wrap .skill_name,.chart-wrap span,.animate-number-wrap h6 span,.woocommerce-tabs .tabs li a,.be-countdown{font-family:"Montserrat",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;letter-spacing:0}.ui-tabs-anchor{text-transform:uppercase;font-size:12px;line-height:17px}.accordion .accordion-head{text-transform:uppercase;font-size:12px;line-height:17px}.skill-wrap .skill_name{text-transform:uppercase;font-size:12px;line-height:17px}.countdown-amount{text-transform:uppercase;font-size:55px;line-height:95px}.countdown-section{text-transform:uppercase;font-size:14px;line-height:30px}.testimonial_slide .testimonial-content{font-family:"Crimson Text",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:italic;text-transform:none;letter-spacing:0}.tweet-slides .tweet-content{font-family:"Crimson Text",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:italic;text-transform:none;letter-spacing:0}.tatsu-button,.be-button,.woocommerce a.button,.woocommerce-page a.button,.woocommerce button.button,.woocommerce-page button.button,.woocommerce input.button,.woocommerce-page input.button,.woocommerce #respond input#submit,.woocommerce-page #respond input#submit,.woocommerce #content input.button,.woocommerce-page #content input.button,input[type="submit"],.more-link.style1-button,.more-link.style2-button,.more-link.style3-button,input[type="button"],input[type="submit"],input[type="reset"],button,input[type="file"]::-webkit-file-upload-button{font-family:"Montserrat",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:normal}.oshine-animated-link,.view-project-link.style4-button{font-family:"Montserrat",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;letter-spacing:0;text-transform:none}.thumb-title-wrap .thumb-title,.full-screen-portfolio-overlay-title{font-family:"Crimson Text",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:italic;text-transform:none;font-size:20px;line-height:35px;letter-spacing:0}.thumb-title-wrap .portfolio-item-cats{text-transform:none;font-size:12px;line-height:17px;letter-spacing:0}h6.gallery-side-heading{font-family:"Montserrat",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:normal;text-transform:uppercase;font-size:13px;line-height:36px;letter-spacing:0;color:#ddd}.portfolio-details .gallery-side-heading-wrap p{color:#5f6263;font-size:13px;line-height:26px;font-family:"Raleway",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;text-transform:none;font-weight:400;font-style:normal;letter-spacing:0}a.navigation-previous-post-link,a.navigation-next-post-link{color:#222;font-size:13px;line-height:20px;font-family:"Montserrat",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;text-transform:none;font-weight:700;font-style:normal;letter-spacing:0}#portfolio-title-nav-bottom-wrap h6,#portfolio-title-nav-bottom-wrap .slider-counts{font-family:"Crimson Text",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:italic;text-transform:none;font-size:16px;letter-spacing:0}.attachment-details-custom-slider{font-family:"Crimson Text",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:italic;text-transform:none;font-size:25px;line-height:45px;letter-spacing:0;color:#fff}.filters .filter_item{color:#222;font-size:12px;line-height:32px;font-family:"Montserrat",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;text-transform:uppercase;font-weight:400;font-style:normal;letter-spacing:1px}.woocommerce ul.products li.product .product-meta-data h3,.woocommerce-page ul.products li.product .product-meta-data h3,.woocommerce ul.products li.product h3,.woocommerce-page ul.products li.product h3,.woocommerce ul.products li.product .product-meta-data .woocommerce-loop-product__title,.woocommerce-page ul.products li.product .product-meta-data .woocommerce-loop-product__title,.woocommerce ul.products li.product .woocommerce-loop-product__title,.woocommerce-page ul.products li.product .woocommerce-loop-product__title,.woocommerce ul.products li.product-category .woocommerce-loop-category__title,.woocommerce-page ul.products li.product-category .woocommerce-loop-category__title{font-family:"Crimson Text",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:italic;text-transform:none;font-size:20px;line-height:38px;letter-spacing:0;color:#fff}.woocommerce-page.single.single-product #content div.product h1.product_title.entry-title{font-family:"Playfair Display",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:normal;text-transform:none;font-size:30px;line-height:48px;letter-spacing:0;color:#fff}.post-title,.post-date-wrap{font-family:"Playfair Display",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:normal;text-transform:none;font-size:26px;line-height:45px;letter-spacing:0;color:#ae9f6a}.style3-blog .post-title,.style8-blog .post-title{font-family:"Playfair Display",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:normal;text-transform:none;font-size:18px;line-height:35px;letter-spacing:0;color:#ae9f6a}.post-meta.post-top-meta-typo,.style8-blog .post-meta.post-category a,.hero-section-blog-categories-wrap a{font-family:"Crimson Text",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:italic;text-transform:none;font-size:16px;line-height:24px;letter-spacing:0;color:#757575}.post-nav li,.style8-blog .post-meta.post-date,.style8-blog .post-bottom-meta-wrap,.hero-section-blog-bottom-meta-wrap{font-family:"Montserrat",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;text-transform:uppercase;font-size:11px;line-height:24px;letter-spacing:1px;color:#757575}.single-post .post-title,.single-post .style3-blog .post-title,.single-post .style8-blog .post-title{font-family:"Playfair Display",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:normal;text-transform:none;font-size:26px;line-height:45px;letter-spacing:0;color:#ae9f6a}.sidebar-widgets h6{font-family:"Montserrat",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:normal;text-transform:uppercase;font-size:12px;line-height:22px;letter-spacing:1px;color:#ddd}.sidebar-widgets{font-family:"Crimson Text",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:normal;text-transform:none;font-size:16px;line-height:28px;letter-spacing:0;color:#999}.sb-slidebar .widget h6{font-family:"Montserrat",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:normal;text-transform:none;font-size:11px;line-height:22px;letter-spacing:1px;color:#ddd}.sb-slidebar .widget{font-family:"Crimson Text",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:normal;text-transform:none;font-size:16px;line-height:28px;letter-spacing:0;color:#a2a2a2}#bottom-widgets h6{font-family:"Montserrat",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:normal;text-transform:uppercase;font-size:11px;line-height:22px;letter-spacing:1px;color:#ddd}#bottom-widgets{font-family:"Crimson Text",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:normal;text-transform:none;font-size:16px;line-height:28px;letter-spacing:0;color:#a2a2a2}.contact_form_module input[type="text"],.contact_form_module textarea{font-family:"Montserrat",-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Helvetica Neue',sans-serif;font-weight:400;font-style:normal;text-transform:none;font-size:13px;line-height:26px;letter-spacing:0;color:#222}@media only screen and (max-width:1377px){}@media only screen and (min-width:768px) and (max-width:1024px){}@media only screen and (max-width:767px){}</style><style id = "oshine-typehub-css" type="text/css"> #header-controls-right,#header-controls-left{color:#e8e8e8}#be-left-strip .be-mobile-menu-icon span{background-color:#323232}ul#mobile-menu .mobile-sub-menu-controller{line-height :40px }ul#mobile-menu ul.sub-menu .mobile-sub-menu-controller{line-height :27px }.breadcrumbs{color:#fff}.search-box-wrapper.style2-header-search-widget input[type="text"]{font-style:italic;font-weight:400;font-family:Crimson Text}.portfolio-share a.custom-share-button,.portfolio-share a.custom-share-button:active,.portfolio-share a.custom-share-button:hover,.portfolio-share a.custom-share-button:visited{color:#ddd}.more-link.style2-button{color:#ae9f6a !important;border-color:#ae9f6a !important}.style8-blog .post-bottom-meta-wrap .be-share-stack a.custom-share-button,.style8-blog .post-bottom-meta-wrap .be-share-stack a.custom-share-button:active,.style8-blog .post-bottom-meta-wrap .be-share-stack a.custom-share-button:hover,.style8-blog .post-bottom-meta-wrap .be-share-stack a.custom-share-button:visited{color:#757575}.hero-section-blog-categories-wrap a,.hero-section-blog-categories-wrap a:visited,.hero-section-blog-categories-wrap a:hover,.hero-section-blog-bottom-meta-wrap .hero-section-blog-bottom-meta-wrap a,.hero-section-blog-bottom-meta-wrap a:visited,.hero-section-blog-bottom-meta-wrap a:hover,.hero-section-blog-bottom-meta-wrap{color :#ae9f6a}#navigation .mega .sub-menu .highlight .sf-with-ul{color:#bbb !important;line-height:1.5}.view-project-link.style4-button{color :#ddd}.related.products h2,.upsells.products h2,.cart-collaterals .cross-sells h2,.cart_totals h2,.shipping_calculator h2,.woocommerce-billing-fields h3,.woocommerce-shipping-fields h3,.shipping_calculator h2,#order_review_heading,.woocommerce .page-title{font-family:Crimson Text;font-weight:400}.woocommerce form .form-row label,.woocommerce-page form .form-row label{color:#ddd}.woocommerce-tabs .tabs li a{color:#ddd !important}#bbpress-forums ul.forum-titles li,#bbpress-forums ul.bbp-replies li.bbp-header{line-height:inherit;letter-spacing:inherit;text-transform:uppercase;font-size:inherit}#bbpress-forums .topic .bbp-topic-meta a,.bbp-forum-freshness a,.bbp-topic-freshness a,.bbp-header .bbp-reply-content a,.bbp-topic-tags a,.bbp-breadcrumb a,.bbp-forums-list a{color:#ddd}.ajde_evcal_calendar .calendar_header p,.eventon_events_list .eventon_list_event .evcal_cblock{font-family:Playfair Display !important}.eventon_events_list .eventon_list_event .evcal_desc span.evcal_desc2,.evo_pop_body .evcal_desc span.evcal_desc2{font-family:Montserrat !important;font-size:14px !important;text-transform:none}.eventon_events_list .eventon_list_event .evcal_desc span.evcal_event_subtitle,.evo_pop_body .evcal_desc span.evcal_event_subtitle,.evcal_evdata_row .evcal_evdata_cell p,#evcal_list .eventon_list_event p.no_events{text-transform:none !important;font-family:Crimson Text !important;font-size:inherit !important} </style><style rel="stylesheet" id="colorhub-output">.swatch-red, .swatch-red a{color:#f44336;}.swatch-pink, .swatch-pink a{color:#E91E63;}.swatch-purple, .swatch-purple a{color:#9C27B0;}.swatch-deep-purple, .swatch-deep-purple a{color:#673AB7;}.swatch-indigo, .swatch-indigo a{color:#3F51B5;}.swatch-blue, .swatch-blue a{color:#2196F3;}.swatch-light-blue, .swatch-light-blue a{color:#03A9F4;}.swatch-cyan, .swatch-cyan a{color:#00BCD4;}.swatch-teal, .swatch-teal a{color:#009688;}.swatch-green, .swatch-green a{color:#4CAF50;}.swatch-light-green, .swatch-light-green a{color:#8BC34A;}.swatch-lime, .swatch-lime a{color:#CDDC39;}.swatch-yellow, .swatch-yellow a{color:#FFEB3B;}.swatch-amber, .swatch-amber a{color:#FFC107;}.swatch-orange, .swatch-orange a{color:#FF9800;}.swatch-deep-orange, .swatch-deep-orange a{color:#FF5722;}.swatch-brown, .swatch-brown a{color:#795548;}.swatch-grey, .swatch-grey a{color:#9E9E9E;}.swatch-blue-grey, .swatch-blue-grey a{color:#607D8B;}.swatch-white, .swatch-white a{color:#ffffff;}.swatch-black, .swatch-black a{color:#000000;}.palette-0, .palette-0 a{color:#ae9f6a;}.palette-1, .palette-1 a{color:#ffffff;}.palette-2, .palette-2 a{color:#222222;}.palette-3, .palette-3 a{color:#888888;}.palette-4, .palette-4 a{color:#000000;}</style><script type="text/javascript">function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {				 
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;	
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;	
+				try {								
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+					if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+						newh = Math.max(e.mh,window.RSIH);					
+					else{					
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,						
+							sl;					
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];									
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}				
+					if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));					
+					document.getElementById(e.c).height = newh+"px";
+					window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }";				
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}					   
+			//});
+		  };</script>
+		<style type="text/css" id="wp-custom-css">
+			.woocommerce ul.products li.product .price {
+    color:#ec7f91 !important;
+    font-size:16px !important;
+}		</style>
+		</head>
+<body class="product-template-default single single-product postid-340 logged-in admin-bar no-customize-support theme-oshin _masterslider _msp_version_3.4.7 woocommerce woocommerce-page woocommerce-no-js header-solid no-section-scroll top-header none be-themes-layout-layout-wide disable_rev_slider_bg_check opt-panel-cache-off" data-be-site-layout='layout-wide' data-be-page-template = 'page' >	
+	<div class="search-box-wrapper style2-header-search-widget">
+				<a href="#" class="header-search-form-close"><i class="icon-icon_close font-icon"></i></a>
+				<div class="search-box-inner1">
+					<div class="search-box-inner2"><form role="search" method="get" class="searchform" action="http://localhost:8888/photography/" >
+	    <input type="text" placeholder="Search ..." value="" name="s" class="s" />
+	    <i class="search-icon icon-search font-icon"></i>
+	    <input type="submit" class="search-submit" value="" />
+	    </form></div>
+				</div>
+			</div><div id="main-wrapper"
+    >
+            <div id="main" class="ajaxable layout-wide" >
+        
+<header id="header">
+		<div id="header-inner-wrap" class=" style1"  >
+					<div id="header-wrap" class=" clearfix" data-default-height="120" data-sticky-height="120">
+				    <div class="logo">
+        <a href="http://localhost:8888/photography"><img class="transparent-logo dark-scheme-logo" src="http://localhost:8888/photography/wp-content/uploads/2021/04/kelvin_zhang_photography_white_small-e1617546377477.png" alt="kelvinzhangphotography" /><img class="transparent-logo light-scheme-logo" src="http://localhost:8888/photography/wp-content/uploads/2021/04/kelvin_zhang_photography_white_small-e1617546377477.png" alt="kelvinzhangphotography" /><img class="normal-logo" src="http://localhost:8888/photography/wp-content/uploads/2021/04/kelvin_zhang_photography_white_small-e1617546377477.png" alt="kelvinzhangphotography" /><img class="sticky-logo" src="http://localhost:8888/photography/wp-content/uploads/2021/04/kelvin_zhang_photography_white_small-e1617546377477.png" alt="kelvinzhangphotography" /></a>    </div>
+        <div id="header-controls-right">
+        				<div class="header-code-widgets">				</div>        <div class="mobile-nav-controller-wrap">
+            <div class="menu-controls mobile-nav-controller" title="Mobile Menu Controller"> <span class="be-mobile-menu-icon style1">   
+        <span class="hamburger-line-1"></span>
+        <span class="hamburger-line-2"></span>
+        <span class="hamburger-line-3"></span>
+</span></div>
+        </div>
+    </div>				<div id="header-bottom-bar">
+				<nav id="navigation" class="clearfix">	<div class="menu"><ul id="menu" class="clearfix none"><li id="menu-item-207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-207"><a title="Home" href="http://localhost:8888/photography/">Home</a></li>
+<li id="menu-item-205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205"><a title="About" href="http://localhost:8888/photography/about/">About</a></li>
+<li id="menu-item-242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-242"><a title="Blog" href="http://localhost:8888/photography/blog-page/">Blog</a></li>
+<li id="menu-item-206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-206"><a title="Portfolio" href="http://localhost:8888/photography/portfolio/">Portfolio</a>
+<span class="mobile-sub-menu-controller"><i class="icon-icon_plus"></i></span><ul class="sub-menu clearfix">
+	<li id="menu-item-298" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-298"><a title="Nature" href="http://localhost:8888/photography/portfolio/nature/">Nature</a></li>
+	<li id="menu-item-295" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-295"><a title="Black &#038; White" href="http://localhost:8888/photography/portfolio/black_white/">Black &#038; White</a></li>
+	<li id="menu-item-294" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-294"><a title="Wildlife" href="http://localhost:8888/photography/portfolio/wildlife/">Wildlife</a></li>
+	<li id="menu-item-296" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-296"><a title="Places" href="http://localhost:8888/photography/portfolio/places/">Places</a></li>
+	<li id="menu-item-297" class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-297"><a title="People" href="http://localhost:8888/photography/portfolio/people/">People</a></li>
+</ul>
+</li>
+<li id="menu-item-243" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-243"><a title="Shop" href="http://localhost:8888/photography/shop/">Shop</a></li>
+<li id="menu-item-208" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-208"><a title="Contact" href="http://localhost:8888/photography/contact/">Contact</a></li>
+</ul></div>				</nav><!-- End Navigation -->
+				</div>
+			</div>
+
+			<div class='header-mobile-navigation clearfix'><div class="mobile-menu"><ul id="mobile-menu" class="clearfix"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-207"><a title="Home" href="http://localhost:8888/photography/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205"><a title="About" href="http://localhost:8888/photography/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-242"><a title="Blog" href="http://localhost:8888/photography/blog-page/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-206"><a title="Portfolio" href="http://localhost:8888/photography/portfolio/">Portfolio</a>
+<span class="mobile-sub-menu-controller"><i class="icon-arrow-right5"></i></span><ul class="sub-menu clearfix">
+	<li class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-298"><a title="Nature" href="http://localhost:8888/photography/portfolio/nature/">Nature</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-295"><a title="Black &#038; White" href="http://localhost:8888/photography/portfolio/black_white/">Black &#038; White</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-294"><a title="Wildlife" href="http://localhost:8888/photography/portfolio/wildlife/">Wildlife</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-296"><a title="Places" href="http://localhost:8888/photography/portfolio/places/">Places</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-portfolio menu-item-297"><a title="People" href="http://localhost:8888/photography/portfolio/people/">People</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-243"><a title="Shop" href="http://localhost:8888/photography/shop/">Shop</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-208"><a title="Contact" href="http://localhost:8888/photography/contact/">Contact</a></li>
+</ul></div></div>	</div>
+</header> <!-- END HEADER -->
+	<section id="content" class="right-sidebar-page"><div id="content-wrap" class="be-wrap clearfix"><section class="clearfix">
+					
+			<div class="woocommerce-notices-wrapper"></div><div id="product-340" class="product type-product post-340 status-publish first instock product_cat-uncategorized product_tag-rainbow product_tag-tree has-post-thumbnail shipping-taxable purchasable product-type-variable">
+
+	<div class="clearfix product-single-boxed-content"><div class="woocommerce-product-gallery woocommerce-product-gallery--with-images woocommerce-product-gallery--columns-5 images" data-columns="5" style="opacity: 0; transition: opacity .25s ease-in-out;">
+	<figure class="woocommerce-product-gallery__wrapper">
+		<div data-thumb="http://localhost:8888/photography/wp-content/uploads/2015/11/hope-100x100.jpg" data-thumb-alt="" class="woocommerce-product-gallery__image"><a href="http://localhost:8888/photography/wp-content/uploads/2015/11/hope.jpg"><img width="600" height="400" src="http://localhost:8888/photography/wp-content/uploads/2015/11/hope-600x400.jpg" class="wp-post-image" alt="" loading="lazy" title="hope" data-caption="" data-src="http://localhost:8888/photography/wp-content/uploads/2015/11/hope.jpg" data-large_image="http://localhost:8888/photography/wp-content/uploads/2015/11/hope.jpg" data-large_image_width="1600" data-large_image_height="1067" srcset="http://localhost:8888/photography/wp-content/uploads/2015/11/hope-600x400.jpg 600w, http://localhost:8888/photography/wp-content/uploads/2015/11/hope-300x200.jpg 300w, http://localhost:8888/photography/wp-content/uploads/2015/11/hope-1024x683.jpg 1024w, http://localhost:8888/photography/wp-content/uploads/2015/11/hope-768x512.jpg 768w, http://localhost:8888/photography/wp-content/uploads/2015/11/hope-1536x1024.jpg 1536w, http://localhost:8888/photography/wp-content/uploads/2015/11/hope-75x50.jpg 75w, http://localhost:8888/photography/wp-content/uploads/2015/11/hope-650x433.jpg 650w, http://localhost:8888/photography/wp-content/uploads/2015/11/hope-1000x667.jpg 1000w, http://localhost:8888/photography/wp-content/uploads/2015/11/hope-50x33.jpg 50w, http://localhost:8888/photography/wp-content/uploads/2015/11/hope.jpg 1600w" sizes="(max-width: 600px) 100vw, 600px" /></a></div>	</figure>
+</div>
+
+	<div class="summary entry-summary">
+		<h1 class="product_title entry-title">A Tree in Cappadocia</h1><p class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>40.00</bdi></span> &ndash; <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#36;</span>218.00</bdi></span></p>
+
+<form class="variations_form cart" action="http://localhost:8888/photography/product/a-tree-in-cappadocia/" method="post" enctype='multipart/form-data' data-product_id="340" data-product_variations="[{&quot;attributes&quot;:{&quot;attribute_size&quot;:&quot;24\u00d736&quot;},&quot;availability_html&quot;:&quot;&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;N\/A&quot;,&quot;display_price&quot;:218,&quot;display_regular_price&quot;:218,&quot;image&quot;:{&quot;title&quot;:&quot;hope&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-600x400.jpg&quot;,&quot;srcset&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-600x400.jpg 600w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-300x200.jpg 300w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-1024x683.jpg 1024w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-768x512.jpg 768w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-1536x1024.jpg 1536w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-75x50.jpg 75w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-650x433.jpg 650w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-1000x667.jpg 1000w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-50x33.jpg 50w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope.jpg 1600w&quot;,&quot;sizes&quot;:&quot;(max-width: 600px) 100vw, 600px&quot;,&quot;full_src&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope.jpg&quot;,&quot;full_src_w&quot;:1600,&quot;full_src_h&quot;:1067,&quot;gallery_thumbnail_src&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-100x100.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:100,&quot;gallery_thumbnail_src_h&quot;:100,&quot;thumb_src&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-300x300.jpg&quot;,&quot;thumb_src_w&quot;:300,&quot;thumb_src_h&quot;:300,&quot;src_w&quot;:600,&quot;src_h&quot;:400},&quot;image_id&quot;:273,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:true,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&lt;span class=\&quot;price\&quot;&gt;&lt;span class=\&quot;woocommerce-Price-amount amount\&quot;&gt;&lt;bdi&gt;&lt;span class=\&quot;woocommerce-Price-currencySymbol\&quot;&gt;&amp;#36;&lt;\/span&gt;218.00&lt;\/bdi&gt;&lt;\/span&gt;&lt;\/span&gt;&quot;,&quot;sku&quot;:&quot;&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:344,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;&quot;,&quot;weight_html&quot;:&quot;N\/A&quot;},{&quot;attributes&quot;:{&quot;attribute_size&quot;:&quot;8\u00d712&quot;},&quot;availability_html&quot;:&quot;&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;N\/A&quot;,&quot;display_price&quot;:40,&quot;display_regular_price&quot;:40,&quot;image&quot;:{&quot;title&quot;:&quot;hope&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-600x400.jpg&quot;,&quot;srcset&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-600x400.jpg 600w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-300x200.jpg 300w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-1024x683.jpg 1024w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-768x512.jpg 768w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-1536x1024.jpg 1536w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-75x50.jpg 75w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-650x433.jpg 650w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-1000x667.jpg 1000w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-50x33.jpg 50w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope.jpg 1600w&quot;,&quot;sizes&quot;:&quot;(max-width: 600px) 100vw, 600px&quot;,&quot;full_src&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope.jpg&quot;,&quot;full_src_w&quot;:1600,&quot;full_src_h&quot;:1067,&quot;gallery_thumbnail_src&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-100x100.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:100,&quot;gallery_thumbnail_src_h&quot;:100,&quot;thumb_src&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-300x300.jpg&quot;,&quot;thumb_src_w&quot;:300,&quot;thumb_src_h&quot;:300,&quot;src_w&quot;:600,&quot;src_h&quot;:400},&quot;image_id&quot;:273,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:true,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&lt;span class=\&quot;price\&quot;&gt;&lt;span class=\&quot;woocommerce-Price-amount amount\&quot;&gt;&lt;bdi&gt;&lt;span class=\&quot;woocommerce-Price-currencySymbol\&quot;&gt;&amp;#36;&lt;\/span&gt;40.00&lt;\/bdi&gt;&lt;\/span&gt;&lt;\/span&gt;&quot;,&quot;sku&quot;:&quot;&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:345,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;&quot;,&quot;weight_html&quot;:&quot;N\/A&quot;},{&quot;attributes&quot;:{&quot;attribute_size&quot;:&quot;16\u00d724&quot;},&quot;availability_html&quot;:&quot;&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;N\/A&quot;,&quot;display_price&quot;:128,&quot;display_regular_price&quot;:128,&quot;image&quot;:{&quot;title&quot;:&quot;hope&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-600x400.jpg&quot;,&quot;srcset&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-600x400.jpg 600w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-300x200.jpg 300w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-1024x683.jpg 1024w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-768x512.jpg 768w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-1536x1024.jpg 1536w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-75x50.jpg 75w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-650x433.jpg 650w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-1000x667.jpg 1000w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-50x33.jpg 50w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope.jpg 1600w&quot;,&quot;sizes&quot;:&quot;(max-width: 600px) 100vw, 600px&quot;,&quot;full_src&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope.jpg&quot;,&quot;full_src_w&quot;:1600,&quot;full_src_h&quot;:1067,&quot;gallery_thumbnail_src&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-100x100.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:100,&quot;gallery_thumbnail_src_h&quot;:100,&quot;thumb_src&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-300x300.jpg&quot;,&quot;thumb_src_w&quot;:300,&quot;thumb_src_h&quot;:300,&quot;src_w&quot;:600,&quot;src_h&quot;:400},&quot;image_id&quot;:273,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:true,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&lt;span class=\&quot;price\&quot;&gt;&lt;span class=\&quot;woocommerce-Price-amount amount\&quot;&gt;&lt;bdi&gt;&lt;span class=\&quot;woocommerce-Price-currencySymbol\&quot;&gt;&amp;#36;&lt;\/span&gt;128.00&lt;\/bdi&gt;&lt;\/span&gt;&lt;\/span&gt;&quot;,&quot;sku&quot;:&quot;&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:342,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;&quot;,&quot;weight_html&quot;:&quot;N\/A&quot;},{&quot;attributes&quot;:{&quot;attribute_size&quot;:&quot;20\u00d730&quot;},&quot;availability_html&quot;:&quot;&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;N\/A&quot;,&quot;display_price&quot;:168,&quot;display_regular_price&quot;:168,&quot;image&quot;:{&quot;title&quot;:&quot;hope&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-600x400.jpg&quot;,&quot;srcset&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-600x400.jpg 600w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-300x200.jpg 300w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-1024x683.jpg 1024w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-768x512.jpg 768w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-1536x1024.jpg 1536w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-75x50.jpg 75w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-650x433.jpg 650w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-1000x667.jpg 1000w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-50x33.jpg 50w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope.jpg 1600w&quot;,&quot;sizes&quot;:&quot;(max-width: 600px) 100vw, 600px&quot;,&quot;full_src&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope.jpg&quot;,&quot;full_src_w&quot;:1600,&quot;full_src_h&quot;:1067,&quot;gallery_thumbnail_src&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-100x100.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:100,&quot;gallery_thumbnail_src_h&quot;:100,&quot;thumb_src&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-300x300.jpg&quot;,&quot;thumb_src_w&quot;:300,&quot;thumb_src_h&quot;:300,&quot;src_w&quot;:600,&quot;src_h&quot;:400},&quot;image_id&quot;:273,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:true,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&lt;span class=\&quot;price\&quot;&gt;&lt;span class=\&quot;woocommerce-Price-amount amount\&quot;&gt;&lt;bdi&gt;&lt;span class=\&quot;woocommerce-Price-currencySymbol\&quot;&gt;&amp;#36;&lt;\/span&gt;168.00&lt;\/bdi&gt;&lt;\/span&gt;&lt;\/span&gt;&quot;,&quot;sku&quot;:&quot;&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:343,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;&quot;,&quot;weight_html&quot;:&quot;N\/A&quot;},{&quot;attributes&quot;:{&quot;attribute_size&quot;:&quot;12\u00d718&quot;},&quot;availability_html&quot;:&quot;&quot;,&quot;backorders_allowed&quot;:false,&quot;dimensions&quot;:{&quot;length&quot;:&quot;&quot;,&quot;width&quot;:&quot;&quot;,&quot;height&quot;:&quot;&quot;},&quot;dimensions_html&quot;:&quot;N\/A&quot;,&quot;display_price&quot;:70,&quot;display_regular_price&quot;:70,&quot;image&quot;:{&quot;title&quot;:&quot;hope&quot;,&quot;caption&quot;:&quot;&quot;,&quot;url&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope.jpg&quot;,&quot;alt&quot;:&quot;&quot;,&quot;src&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-600x400.jpg&quot;,&quot;srcset&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-600x400.jpg 600w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-300x200.jpg 300w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-1024x683.jpg 1024w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-768x512.jpg 768w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-1536x1024.jpg 1536w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-75x50.jpg 75w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-650x433.jpg 650w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-1000x667.jpg 1000w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-50x33.jpg 50w, http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope.jpg 1600w&quot;,&quot;sizes&quot;:&quot;(max-width: 600px) 100vw, 600px&quot;,&quot;full_src&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope.jpg&quot;,&quot;full_src_w&quot;:1600,&quot;full_src_h&quot;:1067,&quot;gallery_thumbnail_src&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-100x100.jpg&quot;,&quot;gallery_thumbnail_src_w&quot;:100,&quot;gallery_thumbnail_src_h&quot;:100,&quot;thumb_src&quot;:&quot;http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope-300x300.jpg&quot;,&quot;thumb_src_w&quot;:300,&quot;thumb_src_h&quot;:300,&quot;src_w&quot;:600,&quot;src_h&quot;:400},&quot;image_id&quot;:273,&quot;is_downloadable&quot;:false,&quot;is_in_stock&quot;:true,&quot;is_purchasable&quot;:true,&quot;is_sold_individually&quot;:&quot;no&quot;,&quot;is_virtual&quot;:false,&quot;max_qty&quot;:&quot;&quot;,&quot;min_qty&quot;:1,&quot;price_html&quot;:&quot;&lt;span class=\&quot;price\&quot;&gt;&lt;span class=\&quot;woocommerce-Price-amount amount\&quot;&gt;&lt;bdi&gt;&lt;span class=\&quot;woocommerce-Price-currencySymbol\&quot;&gt;&amp;#36;&lt;\/span&gt;70.00&lt;\/bdi&gt;&lt;\/span&gt;&lt;\/span&gt;&quot;,&quot;sku&quot;:&quot;&quot;,&quot;variation_description&quot;:&quot;&quot;,&quot;variation_id&quot;:341,&quot;variation_is_active&quot;:true,&quot;variation_is_visible&quot;:true,&quot;weight&quot;:&quot;&quot;,&quot;weight_html&quot;:&quot;N\/A&quot;}]">
+	
+			<table class="variations" cellspacing="0">
+			<tbody>
+									<tr>
+						<td class="label"><label for="size">Size</label></td>
+						<td class="value">
+							<select id="size" class="" name="attribute_size" data-attribute_name="attribute_size" data-show_option_none="yes"><option value="">Choose an option</option><option value="8×12" >8×12</option><option value="12×18" >12×18</option><option value="16×24" >16×24</option><option value="20×30" >20×30</option><option value="24×36" >24×36</option></select><a class="reset_variations" href="#">Clear</a>						</td>
+					</tr>
+							</tbody>
+		</table>
+
+		<div class="single_variation_wrap">
+			<div class="woocommerce-variation single_variation"></div><div class="woocommerce-variation-add-to-cart variations_button">
+	
+		<div class="quantity">
+				<label class="screen-reader-text" for="quantity_606a891498e19">A Tree in Cappadocia quantity</label>
+		<input
+			type="number"
+			id="quantity_606a891498e19"
+			class="input-text qty text"
+			step="1"
+			min="1"
+			max=""
+			name="quantity"
+			value="1"
+			title="Qty"
+			size="4"
+			placeholder=""
+			inputmode="numeric" />
+			</div>
+	
+	<button type="submit" class="single_add_to_cart_button button alt">Add to cart</button>
+
+	
+	<input type="hidden" name="add-to-cart" value="340" />
+	<input type="hidden" name="product_id" value="340" />
+	<input type="hidden" name="variation_id" class="variation_id" value="0" />
+</div>
+		</div>
+	
+	</form>
+
+<div class="product_meta">
+
+	
+	
+		<span class="sku_wrapper">SKU: <span class="sku">N/A</span></span>
+
+	
+	<span class="posted_in">Category: <a href="http://localhost:8888/photography/product-category/uncategorized/" rel="tag">Uncategorized</a></span>
+	<span class="tagged_as">Tags: <a href="http://localhost:8888/photography/product-tag/rainbow/" rel="tag">rainbow</a>, <a href="http://localhost:8888/photography/product-tag/tree/" rel="tag">tree</a></span>
+	
+</div>
+<p><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A8888%2Fphotography%2Fproduct%2Fa-tree-in-cappadocia%2F" class="custom-share-button" target="_blank"><i class="font-icon icon-social_facebook"></i></a><a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A8888%2Fphotography%2Fproduct%2Fa-tree-in-cappadocia%2F+A+Tree+in+Cappadocia" class="custom-share-button" target="_blank"><i class="font-icon icon-social_twitter"></i></a><a href="https://plus.google.com/share?url=http%3A%2F%2Flocalhost%3A8888%2Fphotography%2Fproduct%2Fa-tree-in-cappadocia%2F" class="custom-share-button" target="_blank"><i class="font-icon icon-social_googleplus"></i></a><a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Flocalhost%3A8888%2Fphotography%2Fproduct%2Fa-tree-in-cappadocia%2F&amp;title=A+Tree+in+Cappadocia" class="custom-share-button" target="_blank"><i class="font-icon icon-social_linkedin"></i></a><a href="https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Flocalhost%3A8888%2Fphotography%2Fproduct%2Fa-tree-in-cappadocia%2F&media=http%3A%2F%2Flocalhost%3A8888%2Fphotography%2Fwp-content%2Fuploads%2F2015%2F11%2Fhope.jpg&description=A+Tree+in+Cappadocia" class="custom-share-button" target="_blank"  data-pin-do="buttonPin" data-pin-config="above"><i class="font-icon icon-social_pinterest"></i></a></p>
+	<div class="woocommerce-tabs wc-tabs-wrapper">
+		<ul class="tabs wc-tabs" role="tablist">
+							<li class="additional_information_tab" id="tab-title-additional_information" role="tab" aria-controls="tab-additional_information">
+					<a href="#tab-additional_information">
+						Additional information					</a>
+				</li>
+							<li class="reviews_tab" id="tab-title-reviews" role="tab" aria-controls="tab-reviews">
+					<a href="#tab-reviews">
+						Reviews (0)					</a>
+				</li>
+					</ul>
+					<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--additional_information panel entry-content wc-tab" id="tab-additional_information" role="tabpanel" aria-labelledby="tab-title-additional_information">
+				
+	<h2>Additional information</h2>
+
+<table class="woocommerce-product-attributes shop_attributes">
+			<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_size">
+			<th class="woocommerce-product-attributes-item__label">Size</th>
+			<td class="woocommerce-product-attributes-item__value"><p>8×12, 12×18, 16×24, 20×30, 24×36</p>
+</td>
+		</tr>
+	</table>
+			</div>
+					<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--reviews panel entry-content wc-tab" id="tab-reviews" role="tabpanel" aria-labelledby="tab-title-reviews">
+				<div id="reviews" class="woocommerce-Reviews">
+	<div id="comments">
+		<h2 class="woocommerce-Reviews-title">
+			Reviews		</h2>
+
+					<p class="woocommerce-noreviews">There are no reviews yet.</p>
+			</div>
+
+			<div id="review_form_wrapper">
+			<div id="review_form">
+					<div id="respond" class="comment-respond">
+		<span id="reply-title" class="comment-reply-title">Be the first to review &ldquo;A Tree in Cappadocia&rdquo; <small><a rel="nofollow" id="cancel-comment-reply-link" href="/photography/product/a-tree-in-cappadocia/#respond" style="display:none;">Cancel reply</a></small></span><form action="http://localhost:8888/photography/wp-comments-post.php" method="post" id="commentform" class="comment-form"><div class="comment-form-rating"><label for="rating">Your rating&nbsp;<span class="required">*</span></label><select name="rating" id="rating" required>
+						<option value="">Rate&hellip;</option>
+						<option value="5">Perfect</option>
+						<option value="4">Good</option>
+						<option value="3">Average</option>
+						<option value="2">Not that bad</option>
+						<option value="1">Very poor</option>
+					</select></div><p class="comment-form-comment"><label for="comment">Your review&nbsp;<span class="required">*</span></label><textarea id="comment" name="comment" cols="45" rows="8" required></textarea></p><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Submit" /> <input type='hidden' name='comment_post_ID' value='340' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><input type="hidden" id="_wp_unfiltered_html_comment_disabled" name="_wp_unfiltered_html_comment_disabled" value="7bdefa8876" /><script>(function(){if(window===window.parent){document.getElementById('_wp_unfiltered_html_comment_disabled').name='_wp_unfiltered_html_comment';}})();</script>
+</form>	</div><!-- #respond -->
+				</div>
+		</div>
+	
+	<div class="clear"></div>
+</div>
+			</div>
+		
+			</div>
+
+	</div>
+
+	</div></div>
+
+
+		
+	</section></div></section>
+	
+			<footer id="footer" class="layout-wide">
+			<span class="footer-border "></span>
+			<div id="footer-wrap" class=" style1 be-wrap clearfix">
+				
+				<div class="footer-left-area">
+									</div>
+								
+				<div class="footer-center-area">
+										<div class="footer-content-inner-center">
+										Copyright © Kelvin Zhang 2021. All Rights Reserved					</div>
+									</div>
+						
+				<div class="footer-right-area">
+						
+				</div>
+			</div>
+		</footer> 		</div>
+	<div class="loader page-loader">
+	<div class="loader-style1-wrap"><div class="loader-style1-double-bounce1"></div><div class="loader-style1-double-bounce2"></div></div></div>
+	<a href="#" id="back-to-top" class="layout-wide"><i class="font-icon icon-arrow_carrot-up"></i></a>			</div>
+
+
+
+<input type="hidden" id="ajax_url" value="http://localhost:8888/photography/wp-admin/admin-ajax.php" />
+			<div id="gdpr-popup" class="be-gdpr-popup mfp-hide " data-rel="gdpr-popup-gallery" >
+				<div  class="be-gdpr-modal" >
+				<div class="be-modal-content-wrapper" >
+					<div class="be-gdpr-modal-heading" >Privacy Settings</div>
+
+					<div class="be-gdpr-modal-desc" > We use cookies to enhance your experience while using our website. If you are using our Services via a browser you can restrict, block or remove cookies through your web browser settings. We also use content and scripts from third parties that may use tracking technologies. You can selectively provide your consent below to allow such third party embeds. For complete information about the cookies we use, data we collect and how we process them, please check our <a target="_blank" href="">Privacy Policy</a> </div>
+					<div class="be-gdpr-modal-items" >
+						<div class="be-gdpr-modal-item" >
+								<div class="be-gdpr-modal-item-head" >Youtube</div>
+								<div class="be-gdpr-modal-item-desc" >Consent to display content from Youtube </div>
+								<div class="be-gdpr-modal-item-switch">
+									<label class="switch be-modal-switch">
+										<input class="be-gdpr-switch-input" value="youtube" type="checkbox">
+										<span class="slider round"></span>
+					  				</label></div>
+								</div><div class="be-gdpr-modal-item" >
+								<div class="be-gdpr-modal-item-head" >Vimeo</div>
+								<div class="be-gdpr-modal-item-desc" >Consent to display content from Vimeo </div>
+								<div class="be-gdpr-modal-item-switch">
+									<label class="switch be-modal-switch">
+										<input class="be-gdpr-switch-input" value="vimeo" type="checkbox">
+										<span class="slider round"></span>
+					  				</label></div>
+								</div><div class="be-gdpr-modal-item" >
+								<div class="be-gdpr-modal-item-head" >Google Maps</div>
+								<div class="be-gdpr-modal-item-desc" >Consent to display content from Google </div>
+								<div class="be-gdpr-modal-item-switch">
+									<label class="switch be-modal-switch">
+										<input class="be-gdpr-switch-input" value="gmaps" type="checkbox">
+										<span class="slider round"></span>
+					  				</label></div>
+								</div>					</div>
+					</div>
+					<div class="be-gdpr-modal-footer" >
+						<div class="be-gdpr-modal-save-btn" onClick="gdprSaveBtnClick(event);" >Save</div>
+					</div>
+				</div>
+			</div>
+			 
+			
+		    <div id="gallery" class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+		        <div class="pswp__bg"></div>
+
+		        <div class="pswp__scroll-wrap">
+
+		          <div class="pswp__container">
+					<div class="pswp__item"></div>
+					<div class="pswp__item"></div>
+					<div class="pswp__item"></div>
+		          </div>
+
+		          <div class="pswp__ui pswp__ui--hidden">
+
+		            <div class="pswp__top-bar">
+
+						<div class="pswp__counter"></div>
+
+						<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+						<button class="pswp__button pswp__button--share" title="Share"></button>
+
+						<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+						<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+						<div class="pswp__preloader">
+							<div class="pswp__preloader__icn">
+							  <div class="pswp__preloader__cut">
+							    <div class="pswp__preloader__donut"></div>
+							  </div>
+							</div>
+						</div>
+		            </div>
+
+
+					<!-- <div class="pswp__loading-indicator"><div class="pswp__loading-indicator__line"></div></div> -->
+
+		            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+			            <div class="pswp__share-tooltip">
+							<!-- <a href="#" class="pswp__share--facebook"></a>
+							<a href="#" class="pswp__share--twitter"></a>
+							<a href="#" class="pswp__share--pinterest"></a>
+							<a href="#" download class="pswp__share--download"></a> -->
+			            </div>
+			        </div>
+
+		            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
+		            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
+		            <div class="pswp__caption">
+		              <div class="pswp__caption__center">
+		              </div>
+		            </div>
+		          </div>
+
+		        </div>
+
+		    </div><script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"Product","@id":"http:\/\/localhost:8888\/photography\/product\/a-tree-in-cappadocia\/#product","name":"A Tree in Cappadocia","url":"http:\/\/localhost:8888\/photography\/product\/a-tree-in-cappadocia\/","description":"","image":"http:\/\/localhost:8888\/photography\/wp-content\/uploads\/2015\/11\/hope.jpg","sku":340,"offers":[{"@type":"AggregateOffer","lowPrice":"40.00","highPrice":"218.00","offerCount":5,"priceCurrency":"USD","availability":"http:\/\/schema.org\/InStock","url":"http:\/\/localhost:8888\/photography\/product\/a-tree-in-cappadocia\/","seller":{"@type":"Organization","name":"kelvinzhangphotography","url":"http:\/\/localhost:8888\/photography"}}]}</script>	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script type="text/template" id="tmpl-variation-template">
+	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
+	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
+	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
+</script>
+<script type="text/template" id="tmpl-unavailable-variation-template">
+	<p>Sorry, this product is unavailable. Please choose a different combination.</p>
+</script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-includes/js/hoverintent-js.min.js?ver=2.2.1' id='hoverintent-js-js'></script>
+<script type='text/javascript' id='admin-bar-js-before'>
+( function() {
+				function wpforms_admin_bar_menu_init() {
+					var template = document.getElementById( 'tmpl-wpforms-admin-menubar-data' ),
+						notifications = document.getElementById( 'wp-admin-bar-wpforms-notifications' );
+
+					if ( ! template ) {
+						return;
+					}
+
+					if ( ! notifications ) {
+						var menu = document.getElementById( 'wp-admin-bar-wpforms-menu-default' );
+						menu.insertAdjacentHTML( 'afterBegin', template.innerHTML );
+					} else {
+						notifications.insertAdjacentHTML( 'afterend', template.innerHTML );
+					}
+				};
+				document.addEventListener( 'DOMContentLoaded', wpforms_admin_bar_menu_init );
+			}() );
+</script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-includes/js/admin-bar.min.js?ver=5.7' id='admin-bar-js'></script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-includes/js/comment-reply.min.js?ver=5.7' id='comment-reply-js'></script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-content/plugins/be-gdpr/public/js/magnificpopup.min.js?ver%5B0%5D=jquery' id='gdprmagnificpopup-js'></script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-content/plugins/oshine-modules/public/js/vendor/asyncloader.min.js?ver=1.0' id='asyncloader-js'></script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-includes/js/jquery/ui/accordion.min.js?ver=1.12.1' id='jquery-ui-accordion-js'></script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-includes/js/jquery/ui/tabs.min.js?ver=1.12.1' id='jquery-ui-tabs-js'></script>
+<script type='text/javascript' id='oshine-modules-js-extra'>
+/* <![CDATA[ */
+var oshineModulesConfig = {"pluginUrl":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/oshine-modules\/","vendorScriptsUrl":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/oshine-modules\/public\/js\/vendor\/","dependencies":{"asyncloader":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/oshine-modules\/public\/js\/vendor\/asyncloader.min.js","backgroundcheck":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/oshine-modules\/public\/js\/vendor\/backgroundcheck.min.js","backgroundposition":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/oshine-modules\/public\/js\/vendor\/backgroundposition.min.js","be-modules-plugin":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/oshine-modules\/public\/js\/vendor\/be-modules-plugin.min.js","beslider":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/oshine-modules\/public\/js\/vendor\/beslider.min.js","countdown":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/oshine-modules\/public\/js\/vendor\/countdown.min.js","easing":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/oshine-modules\/public\/js\/vendor\/easing.min.js","easypiechart":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/oshine-modules\/public\/js\/vendor\/easypiechart.min.js","fitvids":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/oshine-modules\/public\/js\/vendor\/fitvids.min.js","fullscreenheight":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/oshine-modules\/public\/js\/vendor\/fullscreenheight.min.js","hoverdir":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/oshine-modules\/public\/js\/vendor\/hoverdir.min.js","imagesloaded":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/oshine-modules\/public\/js\/vendor\/imagesloaded.min.js","isotope":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/oshine-modules\/public\/js\/vendor\/isotope.min.js","justifiedgallery":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/oshine-modules\/public\/js\/vendor\/justifiedgallery.min.js","magnificpopup":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/oshine-modules\/public\/js\/vendor\/magnificpopup.min.js","mousewheel":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/oshine-modules\/public\/js\/vendor\/mousewheel.min.js","owlcarousel":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/oshine-modules\/public\/js\/vendor\/owlcarousel.min.js","photoswipe":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/oshine-modules\/public\/js\/vendor\/photoswipe.min.js","resizetoparent":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/oshine-modules\/public\/js\/vendor\/resizetoparent.min.js","rotate":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/oshine-modules\/public\/js\/vendor\/rotate.min.js","tilt":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/oshine-modules\/public\/js\/vendor\/tilt.min.js","typed":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/oshine-modules\/public\/js\/vendor\/typed.min.js","vivusSVGanimation":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/oshine-modules\/public\/js\/vendor\/vivusSVGanimation.min.js","waypoints":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/oshine-modules\/public\/js\/vendor\/waypoints.min.js"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-content/plugins/oshine-modules/public/js/oshine-modules.min.js?ver=3.2' id='oshine-modules-js'></script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-content/plugins/tatsu/public/js/vendor/es6-promise.auto.min.js?ver=5.7' id='es6-promises-polyfill-js'></script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-content/plugins/tatsu/public/js/helpers.min.js?ver=3.3.2' id='be-script-helpers-js'></script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-content/plugins/tatsu/public/js/vendor/debouncedresize.min.js?ver=3.3.2' id='debouncedresize-js'></script>
+<script type='text/javascript' id='tatsu-js-extra'>
+/* <![CDATA[ */
+var tatsuFrontendConfig = {"pluginUrl":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/tatsu","vendorScriptsUrl":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/tatsu\/public\/js\/vendor\/","mapsApiKey":"","dependencies":{"anime":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/tatsu\/public\/js\/vendor\/anime.min.js?ver=3.3.2","asyncloader":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/tatsu\/public\/js\/vendor\/asyncloader.min.js?ver=3.3.2","backgroundposition":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/tatsu\/public\/js\/vendor\/backgroundposition.min.js?ver=3.3.2","begrid":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/tatsu\/public\/js\/vendor\/begrid.min.js?ver=3.3.2","countTo":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/tatsu\/public\/js\/vendor\/countTo.min.js?ver=3.3.2","debouncedresize":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/tatsu\/public\/js\/vendor\/debouncedresize.min.js?ver=3.3.2","es6-promise.auto":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/tatsu\/public\/js\/vendor\/es6-promise.auto.min.js?ver=3.3.2","fitvids":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/tatsu\/public\/js\/vendor\/fitvids.min.js?ver=3.3.2","flickity":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/tatsu\/public\/js\/vendor\/flickity.min.js?ver=3.3.2","hoverintent":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/tatsu\/public\/js\/vendor\/hoverintent.min.js?ver=3.3.2","imagesloaded":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/tatsu\/public\/js\/vendor\/imagesloaded.min.js?ver=3.3.2","isotope":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/tatsu\/public\/js\/vendor\/isotope.min.js?ver=3.3.2","magnificpopup":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/tatsu\/public\/js\/vendor\/magnificpopup.min.js?ver=3.3.2","stickykit":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/tatsu\/public\/js\/vendor\/stickykit.min.js?ver=3.3.2","superfish":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/tatsu\/public\/js\/vendor\/superfish.min.js?ver=3.3.2","tatsuCarousel":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/tatsu\/public\/js\/vendor\/tatsuCarousel.min.js?ver=3.3.2","tatsuColumnParallax":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/tatsu\/public\/js\/vendor\/tatsuColumnParallax.min.js?ver=3.3.2","tatsuParallax":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/tatsu\/public\/js\/vendor\/tatsuParallax.min.js?ver=3.3.2","tilt":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/tatsu\/public\/js\/vendor\/tilt.min.js?ver=3.3.2","typed":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/tatsu\/public\/js\/vendor\/typed.min.js?ver=3.3.2","unveil":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/tatsu\/public\/js\/vendor\/unveil.min.js?ver=3.3.2","vivus":"http:\/\/localhost:8888\/photography\/wp-content\/plugins\/tatsu\/public\/js\/vendor\/vivus.min.js?ver=3.3.2"},"slider_icons":{"left":"<svg viewBox=\"0 0 10 16\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path opacity=\"0.999943\" d=\"M0 0L7 7.1759L0.343184 14\" transform=\"translate(9 15) rotate(-180)\" stroke-width=\"2\"\/>\n<\/svg>\n","right":"<svg viewBox=\"0 0 10 16\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\">\n<path d=\"M0 0L7 7.1759L0.343184 14\" transform=\"translate(1 1)\" stroke-width=\"2\"\/>\n<\/svg>\n"},"version":"3.3.2"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-content/plugins/tatsu/public/js/tatsu.min.js?ver=3.3.2' id='tatsu-js'></script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/photography\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/photography\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"http:\/\/localhost:8888\/photography\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=5.1.0' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' id='wc-single-product-js-extra'>
+/* <![CDATA[ */
+var wc_single_product_params = {"i18n_required_rating_text":"Please select a rating","review_rating_required":"yes","flexslider":{"rtl":false,"animation":"slide","smoothHeight":true,"directionNav":false,"controlNav":"thumbnails","slideshow":false,"animationSpeed":500,"animationLoop":false,"allowOneSlide":false},"zoom_enabled":"","zoom_options":[],"photoswipe_enabled":"","photoswipe_options":{"shareEl":false,"closeOnScroll":false,"history":false,"hideAnimationDuration":0,"showAnimationDuration":0},"flexslider_enabled":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=5.1.0' id='wc-single-product-js'></script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/photography\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/photography\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=5.1.0' id='woocommerce-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/photography\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/photography\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_3f74ff4658c7b3d36536bbe83703a610","fragment_name":"wc_fragments_3f74ff4658c7b3d36536bbe83703a610","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=5.1.0' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-after'>
+		jQuery( 'body' ).bind( 'wc_fragments_refreshed', function() {
+			var jetpackLazyImagesLoadEvent;
+			try {
+				jetpackLazyImagesLoadEvent = new Event( 'jetpack-lazy-images-load', {
+					bubbles: true,
+					cancelable: true
+				} );
+			} catch ( e ) {
+				jetpackLazyImagesLoadEvent = document.createEvent( 'Event' )
+				jetpackLazyImagesLoadEvent.initEvent( 'jetpack-lazy-images-load', true, true );
+			}
+			jQuery( 'body' ).get( 0 ).dispatchEvent( jetpackLazyImagesLoadEvent );
+		} );
+		
+</script>
+<script type='text/javascript' id='mailchimp-woocommerce-js-extra'>
+/* <![CDATA[ */
+var mailchimp_public_data = {"site_url":"http:\/\/localhost:8888\/photography","ajax_url":"http:\/\/localhost:8888\/photography\/wp-admin\/admin-ajax.php","language":"en"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js?ver=2.5.1' id='mailchimp-woocommerce-js'></script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-content/themes/oshin/js/vendor/perfect-scrollbar.jquery.min.js?ver=5.7' id='custom-scrollbar-js'></script>
+<script type='text/javascript' id='be-themes-script-js-js-extra'>
+/* <![CDATA[ */
+var oshineThemeConfig = {"vendorScriptsUrl":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/","dependencies":{"asyncloader":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/asyncloader.min.js","backgroundcheck":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/backgroundcheck.min.js","backgroundposition":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/backgroundposition.min.js","classie":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/classie.min.js","easing":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/easing.min.js","fitvids":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/fitvids.min.js","flickity":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/flickity.min.js","fullscreenheight":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/fullscreenheight.min.js","galaxycanvas":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/galaxycanvas.min.js","greensock":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/greensock.min.js","horizontalcarousel":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/horizontalcarousel.min.js","hoverintent":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/hoverintent.min.js","imagesloaded":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/imagesloaded.min.js","isotope":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/isotope.min.js","magnificpopup":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/magnificpopup.min.js","mcustomscrollbar":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/mcustomscrollbar.min.js","modernizr":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/modernizr.min.js","mousewheel":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/mousewheel.min.js","multi_level_menu":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/multi_level_menu.min.js","old_menu_animation":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/old_menu_animation.min.js","page_stack_top":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/page_stack_top.min.js","patterncanvas":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/patterncanvas.min.js","perfect-scrollbar.jquery":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/perfect-scrollbar.jquery.min.js","perspective_navigation":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/perspective_navigation.min.js","request_animation_frame":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/request_animation_frame.min.js","resizetoparent":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/resizetoparent.min.js","scrolltosections":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/scrolltosections.min.js","simplebar":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/simplebar.min.js","simplebar_old":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/simplebar_old.min.js","sticky_sections":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/sticky_sections.min.js","stickykit":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/stickykit.min.js","superfish":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/superfish.min.js","transparentheader":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/transparentheader.min.js","waterdropcanvas":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/waterdropcanvas.min.js","webfont":"http:\/\/localhost:8888\/photography\/wp-content\/themes\/oshin\/js\/vendor\/webfont.min.js"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-content/themes/oshin/js/script.min.js?ver=6.9.9' id='be-themes-script-js-js'></script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-includes/js/wp-embed.min.js?ver=5.7' id='wp-embed-js'></script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-includes/js/underscore.min.js?ver=1.8.3' id='underscore-js'></script>
+<script type='text/javascript' id='wp-util-js-extra'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/photography\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-includes/js/wp-util.min.js?ver=5.7' id='wp-util-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-variation-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/photography\/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"Sorry, no products matched your selection. Please choose a different combination.","i18n_make_a_selection_text":"Please select some product options before adding this product to your cart.","i18n_unavailable_text":"Sorry, this product is unavailable. Please choose a different combination."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost:8888/photography/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=5.1.0' id='wc-add-to-cart-variation-js'></script>
+		<script type="text/javascript">
+			function rs_adminBarToolBarTopFunction() {
+				if(jQuery('#wp-admin-bar-revslider-default').length > 0 && jQuery('rs-module-wrap').length > 0){
+					var aliases = new Array();
+					jQuery('rs-module-wrap').each(function(){
+						aliases.push(jQuery(this).data('alias'));
+					});
+					
+					if(aliases.length > 0){
+						jQuery('#wp-admin-bar-revslider-default li').each(function(){
+							var li = jQuery(this),
+								t = li.find('.ab-item .rs-label').data('alias'); //text()
+							t = t!==undefined && t!==null ? t.trim() : t;
+							if(jQuery.inArray(t,aliases)!=-1){
+							}else{
+								li.remove();
+							}
+						});
+					}
+				}else{
+					jQuery('#wp-admin-bar-revslider').remove();
+				}
+			}
+			var adminBarLoaded_once = false
+			if (document.readyState === "loading") 
+				document.addEventListener('readystatechange',function(){
+					if ((document.readyState === "interactive" || document.readyState === "complete") && !adminBarLoaded_once) {
+						adminBarLoaded_once = true;
+						rs_adminBarToolBarTopFunction()
+					}
+				});
+			else {
+				adminBarLoaded_once = true;
+				rs_adminBarToolBarTopFunction();
+			}
+		</script>
+			<script type="text/javascript">
+		(function() {
+			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+				request = true;
+	
+			b[c] = b[c].replace( rcs, ' ' );
+			// The customizer requires postMessage and CORS (if the site is cross domain).
+			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+		}());
+	</script>
+			<div id="wpadminbar" class="nojq nojs">
+							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Skip to toolbar</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar">
+				<ul id='wp-admin-bar-root-default' class="ab-top-menu"><li id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost:8888/photography/wp-admin/about.php'><span class="ab-icon"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li id='wp-admin-bar-about'><a class='ab-item' href='http://localhost:8888/photography/wp-admin/about.php'>About WordPress</a></li></ul><ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-wporg'><a class='ab-item' href='https://wordpress.org/'>WordPress.org</a></li><li id='wp-admin-bar-documentation'><a class='ab-item' href='https://wordpress.org/support/'>Documentation</a></li><li id='wp-admin-bar-support-forums'><a class='ab-item' href='https://wordpress.org/support/forums/'>Support</a></li><li id='wp-admin-bar-feedback'><a class='ab-item' href='https://wordpress.org/support/forum/requests-and-feedback'>Feedback</a></li></ul></div></li><li id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost:8888/photography/wp-admin/'>kelvinzhangphotography</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-site-name-default' class="ab-submenu"><li id='wp-admin-bar-dashboard'><a class='ab-item' href='http://localhost:8888/photography/wp-admin/'>Dashboard</a></li></ul><ul id='wp-admin-bar-appearance' class="ab-submenu"><li id='wp-admin-bar-themes'><a class='ab-item' href='http://localhost:8888/photography/wp-admin/themes.php'>Themes</a></li><li id='wp-admin-bar-widgets'><a class='ab-item' href='http://localhost:8888/photography/wp-admin/widgets.php'>Widgets</a></li><li id='wp-admin-bar-menus'><a class='ab-item' href='http://localhost:8888/photography/wp-admin/nav-menus.php'>Menus</a></li><li id='wp-admin-bar-background' class="hide-if-customize"><a class='ab-item' href='http://localhost:8888/photography/wp-admin/themes.php?page=custom-background'>Background</a></li><li id='wp-admin-bar-header' class="hide-if-customize"><a class='ab-item' href='http://localhost:8888/photography/wp-admin/themes.php?page=custom-header'>Header</a></li></ul></div></li><li id='wp-admin-bar-customize' class="hide-if-no-customize"><a class='ab-item' href='http://localhost:8888/photography/wp-admin/customize.php?url=http%3A%2F%2Flocalhost%3A8888%2Fphotography%2Fproduct%2Fa-tree-in-cappadocia%2F'>Customize</a></li><li id='wp-admin-bar-updates'><a class='ab-item' href='http://localhost:8888/photography/wp-admin/update-core.php' title='1 Plugin Update'><span class="ab-icon"></span><span class="ab-label">1</span><span class="screen-reader-text">1 Plugin Update</span></a></li><li id='wp-admin-bar-comments'><a class='ab-item' href='http://localhost:8888/photography/wp-admin/edit-comments.php'><span class="ab-icon"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text comments-in-moderation-text">0 Comments in moderation</span></a></li><li id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost:8888/photography/wp-admin/post-new.php'><span class="ab-icon"></span><span class="ab-label">New</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-new-content-default' class="ab-submenu"><li id='wp-admin-bar-new-post'><a class='ab-item' href='http://localhost:8888/photography/wp-admin/post-new.php'>Post</a></li><li id='wp-admin-bar-new-media'><a class='ab-item' href='http://localhost:8888/photography/wp-admin/media-new.php'>Media</a></li><li id='wp-admin-bar-new-page'><a class='ab-item' href='http://localhost:8888/photography/wp-admin/post-new.php?post_type=page'>Page</a></li><li id='wp-admin-bar-new-product'><a class='ab-item' href='http://localhost:8888/photography/wp-admin/post-new.php?post_type=product'>Product</a></li><li id='wp-admin-bar-new-shop_order'><a class='ab-item' href='http://localhost:8888/photography/wp-admin/post-new.php?post_type=shop_order'>Order</a></li><li id='wp-admin-bar-new-shop_coupon'><a class='ab-item' href='http://localhost:8888/photography/wp-admin/post-new.php?post_type=shop_coupon'>Coupon</a></li><li id='wp-admin-bar-new-portfolio'><a class='ab-item' href='http://localhost:8888/photography/wp-admin/post-new.php?post_type=portfolio'>Portfolio</a></li><li id='wp-admin-bar-new-custom-css-js'><a class='ab-item' href='http://localhost:8888/photography/wp-admin/post-new.php?post_type=custom-css-js'>Custom Code</a></li><li id='wp-admin-bar-new-user'><a class='ab-item' href='http://localhost:8888/photography/wp-admin/user-new.php'>User</a></li><li id='wp-admin-bar-wpforms'><a class='ab-item' href='http://localhost:8888/photography/wp-admin/admin.php?page=wpforms-builder'>WPForms</a></li></ul></div></li><li id='wp-admin-bar-edit'><a class='ab-item' href='http://localhost:8888/photography/wp-admin/post.php?post=340&#038;action=edit'>Edit product</a></li><li id='wp-admin-bar-tatsu_edit_page'><a class='ab-item' href='http://localhost:8888/photography/product/a-tree-in-cappadocia/?tatsu=1&#038;id=340'>Edit with Tatsu</a></li><li id='wp-admin-bar-_options'><a class='ab-item' href='http://localhost:8888/photography/wp-admin/admin.php?page=_options'>Oshine Options</a></li><li id='wp-admin-bar-wpforms-menu' class="menupop"><a class='ab-item' aria-haspopup="true" href='http://localhost:8888/photography/wp-admin/admin.php?page=wpforms-overview'>WPForms</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wpforms-menu-default' class="ab-submenu"><li id='wp-admin-bar-wpforms-forms'><a class='ab-item' href='http://localhost:8888/photography/wp-admin/admin.php?page=wpforms-overview'>All Forms</a></li><li id='wp-admin-bar-wpforms-add-new'><a class='ab-item' href='http://localhost:8888/photography/wp-admin/admin.php?page=wpforms-builder'>Add New</a></li><li id='wp-admin-bar-wpforms-community'><a class='ab-item' href='https://www.facebook.com/groups/wpformsvip/' target='_blank' rel='noopener noreferrer'>Community</a></li><li id='wp-admin-bar-wpforms-support'><a class='ab-item' href='https://wpforms.com/docs/' target='_blank' rel='noopener noreferrer'>Support</a></li></ul></div></li><li id='wp-admin-bar-revslider' class="menupop revslider-menu"><a class='ab-item' aria-haspopup="true" href='http://localhost:8888/photography/wp-admin/admin.php?page=revslider'><span class="rs-label">Slider Revolution</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-revslider-default' class="ab-submenu"><li id='wp-admin-bar-v22' class="revslider-sub-menu"><a class='ab-item' href='http://localhost:8888/photography/wp-admin/admin.php?page=revslider&#038;view=slide&#038;id=slider-1'><span class="rs-label" data-alias="v22">v22 Home Slider</span></a></li></ul></div></li></ul><ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="http://localhost:8888/photography/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search"/></form></div></li><li id='wp-admin-bar-my-account' class="menupop with-avatar"><a class='ab-item' aria-haspopup="true" href='http://localhost:8888/photography/wp-admin/profile.php'>Howdy, <span class="display-name">icebing</span><img alt='' src='http://2.gravatar.com/avatar/8dc4f4732bd9c58c0635f304845c0c27?s=26&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/8dc4f4732bd9c58c0635f304845c0c27?s=52&#038;d=mm&#038;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' loading='lazy'/></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-user-actions' class="ab-submenu"><li id='wp-admin-bar-user-info'><a class='ab-item' tabindex="-1" href='http://localhost:8888/photography/wp-admin/profile.php'><img alt='' src='http://2.gravatar.com/avatar/8dc4f4732bd9c58c0635f304845c0c27?s=64&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/8dc4f4732bd9c58c0635f304845c0c27?s=128&#038;d=mm&#038;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' loading='lazy'/><span class='display-name'>icebing</span></a></li><li id='wp-admin-bar-edit-profile'><a class='ab-item' href='http://localhost:8888/photography/wp-admin/profile.php'>Edit Profile</a></li><li id='wp-admin-bar-logout'><a class='ab-item' href='http://localhost:8888/photography/wp-login.php?action=logout&#038;_wpnonce=66faaf5ee9'>Log Out</a></li></ul></div></li></ul>			</div>
+						<a class="screen-reader-shortcut" href="http://localhost:8888/photography/wp-login.php?action=logout&#038;_wpnonce=66faaf5ee9">Log Out</a>
+					</div>
+
+		<!-- Option Panel Custom JavaScript -->
+<script>
+	//jQuery(document).ready(function(){
+			// });
+</script>
+</body>
+</html>
